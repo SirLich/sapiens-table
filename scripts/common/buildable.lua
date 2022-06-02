@@ -10,9 +10,8 @@ local mod = {
 }
 
 function mod:onload(buildable)
+	mj:log("Adding Buildable: Aspen Table")
 
-
-	-- Equivalent to 'buildable:addBuildable("aspenTable", ...)'
 	buildable:addBuildable("aspenTable", {
 		modelName = "aspenTable",
 		inProgressGameObjectTypeKey = "build_aspenTable",
