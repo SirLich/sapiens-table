@@ -4,6 +4,9 @@ This is a test mod, which simply adds a table  to the game. The main purpose is 
 
 ![image](https://user-images.githubusercontent.com/18729296/174457396-e5eda854-f91f-4985-9db7-63f958f51d28.png)
 
+## Join Us!
+
+Join the discord: https://discord.gg/WnN8hj2Fyg
 ## Issues
 
  - No Build UI preview image
